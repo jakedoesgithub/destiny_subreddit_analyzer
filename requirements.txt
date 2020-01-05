@@ -4,5 +4,5 @@ textblob
 numpy
 plotly
 ipywidgets
-tdqm
+tqdm
 voila
