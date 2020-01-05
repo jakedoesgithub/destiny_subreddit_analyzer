@@ -1,0 +1,10 @@
+json
+requests
+pandas 
+textblob
+numpy
+plotly
+ipywidgets
+time
+tdqm
+voila
